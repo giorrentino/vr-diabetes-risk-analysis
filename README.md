@@ -2,6 +2,11 @@
 
 This project is a Virtual Reality application developed in Unity for the simulation of diabetes risk assessment in a clinical environment.
 
+## 🕶️ VR Preview
+
+![VR Scene](images/vr_scene.png)
+![UI](images/ui.png)
+![Interaction](images/interaction.png)
 ## 📌 Overview
 
 The system allows users to interact with virtual patients and analyze clinical data in an immersive environment.  
