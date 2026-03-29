@@ -4,7 +4,7 @@ This project is a Virtual Reality application developed in Unity for the simulat
 
 ## 🕶️ VR Preview
 
-![VR Scene](images/vr_scene.png)
+![VR Scene](images/vr_scene1.png)
 ![Interaction](images/interaction.png)
 ![UI](images/ui.png)
 ## 📌 Overview
